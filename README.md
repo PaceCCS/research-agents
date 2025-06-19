@@ -1,6 +1,4 @@
-# Browser Use Demo
-
-A simple demo application using Browser Use to automate web browsing tasks with AI.
+# research agents
 
 ## Setup
 
@@ -45,7 +43,7 @@ OPENAI_API_KEY= <get the key from [here](https://portal.azure.com/#@paceflowassu
    ```bash
    # Using uv
    uv run playwright install
-
+   # or
    playwright install
    ```
 
